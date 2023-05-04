@@ -1,7 +1,7 @@
 <div align="center">
-    <a href="https://github.com/itsmeSamrat" target="_blank">
-        <img src="https://www.clipartmax.com/png/middle/112-1128757_iab-logo-dma-logo-ms-azure-logo-microsoft-azure.png" 
-        alt="Logo" width="290" height="225">
+    <a href="https://assets.website-files.com/62ac4aacc75a115ff9dcb9bc/63aadeb499dd6a0799a56ca5_Azure.jpg" target="_blank">
+        <img src="https://assets.website-files.com/62ac4aacc75a115ff9dcb9bc/63aadeb499dd6a0799a56ca5_Azure.jpg" 
+        alt="Logo" width="400" height="250">
     </a>
 </div>
 
