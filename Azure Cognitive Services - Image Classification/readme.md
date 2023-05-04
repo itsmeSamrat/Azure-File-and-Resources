@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Azure+Cognitive+Services+-+Image+Classification">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Azure+Cognitive+Services;Image+Classification">
 </div>
 
 [Getting Started](#getting-started)
@@ -24,6 +24,8 @@ To challenging the classifier and to test how accurate the image classification 
 2. Reebok
 3. Puma
 4. Adidas
+
+Please read the Image Classification pdf file or watch the video uploaded for more details.
 
 <!-- Back to the top -->
 
