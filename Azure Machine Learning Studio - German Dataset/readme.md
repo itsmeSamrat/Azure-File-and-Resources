@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://media.licdn.com/dms/image/C5612AQHZJ_q1sMxopg/article-cover_image-shrink_720_1280/0/1585825148852?e=2147483647&v=beta&t=nFaiwfIlKeVNhl51-9OKrQX27qUqE0yIWKCdTR5y7QY" 
-        alt="Logo" width="300" height="225">
+        alt="Logo" width="500" height="275">
     </a>
 </div>
 
@@ -19,7 +19,9 @@ Microsoft Azure Machine Learning Studio provides us easy to use drag and drop fu
 
 At the end of the video, after the deployment, we receive API keys with that, we will be able to use the model any where easily with our code.
 
-Its a easy fun way of training the model and deploying the model too.
+Its a easy fun way of training the model and deploying the model too. 
+
+Please watch the video uploaded for more details, if you are interested in Microsoft Azure Machine Learning Studio.
 
 <!-- Back to the top -->
 
