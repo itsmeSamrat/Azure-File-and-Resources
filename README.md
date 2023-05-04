@@ -1,10 +1,6 @@
-# Azure-File-and-Resources
-
-Contains File and Resources of Azure Learned during my Academic Journey
-
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
-        <img src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg" 
+        <img src="https://www.clipartmax.com/png/middle/112-1128757_iab-logo-dma-logo-ms-azure-logo-microsoft-azure.png" 
         alt="Logo" width="290" height="225">
     </a>
 </div>
@@ -13,20 +9,20 @@ Contains File and Resources of Azure Learned during my Academic Journey
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Azure+File+and+Resources">
 </div>
 
-[getting started](#getting-started)
+[Getting Started](#getting-started)
 
 ## Description
 
 This repository contains file and resource of Azure, I have learned during my academic journey. I have tried to keep everything separate and organized. I hope this will be able to show case my skills and experience with Azure and Cloud Services. This repo has following topics:
 
 1. Azure Cognitive Services - Image Classification
-2. Azure Machine Learning Studio - German Dataset
+2. Azure Machine Learning Studio - German Credit Card Dataset
 3. Draw your Own Architecture
 4. Challenges provided by Professor to build up the base on Azure
 
 ## Acknowledgement
 
-- I would like to thank our Professor [Caio Gasparine](https://github.com/caiogasparine) for the amazing lecture, assignments and challenges which are closely related to the enterprise solutions. I learned a lot about Azure and has made me comfortable using the Cloud Solution. During his lectures, we were able to get access to AWS academy, completing [AWS Cloud Foundations](https://www.credly.com/badges/a7ed94e2-8e94-429d-b3eb-f20104160d4e/linked_in_profile) and [AWS Machine Learning](https://www.credly.com/badges/1a90355b-2ff6-468b-9685-c60a3e47956e/linked_in_profile) course.
+I would like to thank our Professor [Caio Gasparine](https://github.com/caiogasparine) for the amazing lecture, assignments and challenges which are closely related to the enterprise solutions. I learned a lot about Azure and has made me comfortable using the Cloud Solution. During his lectures, we were able to get access to AWS academy, completing [AWS Cloud Foundations](https://www.credly.com/badges/a7ed94e2-8e94-429d-b3eb-f20104160d4e/linked_in_profile) and [AWS Machine Learning](https://www.credly.com/badges/1a90355b-2ff6-468b-9685-c60a3e47956e/linked_in_profile) course.
 
 ## License
 
