@@ -19,7 +19,7 @@ Microsoft Azure Machine Learning Studio provides us easy to use drag and drop fu
 
 At the end of the video, after the deployment, we receive API keys with that, we will be able to use the model any where easily with our code.
 
-Its a easy fun way of training the model and deploying the model too.
+Its a easy fun way of training the model and deploying the model too. Please watch the video uploaded for more details, if you are interested in Microsoft Azure Machine Learning Studio.
 
 <!-- Back to the top -->
 
