@@ -25,6 +25,8 @@ To challenging the classifier and to test how accurate the image classification 
 3. Puma
 4. Adidas
 
+The image classification is a supervised machine learning problem where we provide the training data set with the label and use the labeled data set to train the algorithm. The algorithm will give us some prediction with certain percentage of probability what the image is using CNN with feature extraction.
+
 Please read the Image Classification pdf file or watch the video uploaded for more details.
 
 <!-- Back to the top -->
